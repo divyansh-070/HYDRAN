@@ -1,4 +1,4 @@
-# 🌟 HYDRAN: Identification of Brain Tumor using Deep Learning
+# 🌟 HYDRAN: HYBRID DUAL RESIDUAL ATTENTION NETWORK
 
 ## 🚀 Overview
 
