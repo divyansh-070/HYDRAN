@@ -83,28 +83,6 @@ HYDRAN’s performance is compared against several well-known segmentation model
    ```bash
    pip install -r requirements.txt
    ```
-
-### 🚀 Usage
-
-1. **📂 Dataset Preparation**:
-   - Ensure your medical image dataset is in the appropriate format (e.g., NIfTI, DICOM).
-   - Place the dataset in the `data/` directory.
-
-2. **📈 Training the Model**:
-   ```bash
-   python train.py --config config.yaml
-   ```
-
-3. **📊 Evaluating the Model**:
-   ```bash
-   python evaluate.py --weights path/to/model_weights
-   ```
-
-4. **🔍 Inference**:
-   ```bash
-   python infer.py --input path/to/input_image --output path/to/output
-   ```
-
 ---
 
 ## 📜 Results
