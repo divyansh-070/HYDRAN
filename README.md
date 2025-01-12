@@ -73,7 +73,7 @@ HYDRAN’s performance is compared against several well-known segmentation model
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/hydran.git
+   git clone https://github.com/ayushcodes13/HYDRAN
    ```
 2. Navigate to the project directory:
    ```bash
