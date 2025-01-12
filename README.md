@@ -114,5 +114,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For further inquiries, please reach out to:
 - **📧 Email**: devayushrout@gmail.com
-- **🐙 GitHub**: [your-repo](https://github.com/your-repo/hydran)
+- **🐙 GitHub**: https://github.com/ayushcodes13/HYDRAN
 
