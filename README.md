@@ -10,7 +10,7 @@
 
 Cancer is one of the leading causes of fatalities worldwide. Early detection can significantly improve treatment outcomes and survival rates. However, traditional diagnostic methods, relying on human interpretation of medical images, are prone to irregularities and can be time-consuming. By integrating deep learning techniques into cancer detection, HYDRAN addresses these challenges by:
 
-- 🎯 **Improving the accuracy** of brain tumor detection.
+- 🎯 **Improving the accuracy** of brain tumor detection as well as segmentation.
 - ⏱️ **Reducing the time** required for diagnosis.
 - ✅ **Offering consistent and reliable predictions.**
 
