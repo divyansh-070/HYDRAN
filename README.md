@@ -30,7 +30,7 @@ Cancer is one of the leading causes of fatalities worldwide. Early detection can
 
 ---
 
-## 📊 Comparison with Other Models
+## 📊 Comparison with Other Models a.k.a 📜 Results
 
 HYDRAN’s performance is compared against several well-known segmentation models:
 
@@ -83,18 +83,6 @@ HYDRAN’s performance is compared against several well-known segmentation model
    ```bash
    pip install -r requirements.txt
    ```
----
-
-## 📜 Results
-
-| Metric          | HYDRAN  | DeepLabv3 | U-Net | Mask R-CNN | SegNet | ResUNet |
-|-----------------|---------|-----------|-------|------------|--------|---------|
-| Pixel Accuracy  | 99.80%  | 98.50%    | 97.90%| 98.20%     | 97.60% | 97.50%  |
-| IoU            | 81.93%  | 85.00%    | 78.00%| 80.50%     | 77.00% | 76.50%  |
-| Dice Score      | 89.97%  | 86.50%    | 84.20%| 85.50%     | 83.00% | 82.50%  |
-| Precision       | 92.93%  | 90.00%    | 87.50%| 89.00%     | 86.00% | 85.50%  |
-| Recall          | 91.50%  | 89.00%    | 85.00%| 88.00%     | 84.00% | 83.50%  |
-
 ---
 
 ## 📄 License
