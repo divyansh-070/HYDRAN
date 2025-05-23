@@ -73,7 +73,7 @@ HYDRAN’s performance is compared against several well-known segmentation model
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayushcodes13/HYDRAN.git
+   git clone https://github.com/divyansh-070/HYDRAN.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -101,6 +101,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For further inquiries, please reach out to:
-- **📧 Email**: devayushrout@gmail.com
-- **🐙 GitHub**: https://github.com/ayushcodes13/HYDRAN
+- **📧 Email**: divyanshdk12@gmail.com
+- **🐙 GitHub**: https://github.com/divyansh-070/HYDRAN
 
